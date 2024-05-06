@@ -1,0 +1,7 @@
+  gains:
+      elfin_joint1: {p: 20.0, i: 0, d: 0.8, i_clamp_max: 0, i_clamp_min: 0, antiwindup: ture, publish_state: true }
+      elfin_joint2: {p: 20.0, i: 0, d: 0.8, i_clamp_max: 0, i_clamp_min: 0, antiwindup: ture, publish_state: true }
+      elfin_joint3: {p: 20.0, i: 0, d: 0.8, i_clamp_max: 0, i_clamp_min: 0, antiwindup: ture, publish_state: true }
+      elfin_joint4: {p: 20.0, i: 0, d: 0.8, i_clamp_max: 0, i_clamp_min: 0, antiwindup: ture, publish_state: true }
+      elfin_joint5: {p: 20.0, i: 0, d: 0.8, i_clamp_max: 0, i_clamp_min: 0, antiwindup: ture, publish_state: true }
+      elfin_joint6: {p: 20.0, i: 0, d: 0.8, i_clamp_max: 0, i_clamp_min: 0, antiwindup: ture, publish_state: true }

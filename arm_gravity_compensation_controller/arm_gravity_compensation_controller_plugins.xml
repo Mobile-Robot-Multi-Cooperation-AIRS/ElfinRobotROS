@@ -1,0 +1,11 @@
+<library path="lib/libarm_gravity_compensation_controller">
+
+  <class name="arm_gravity_compensation_controller/ArmGravityCompensationController" 
+        type="arm_gravity_compensation_controller::ArmGravityCompensationController" 
+        base_class_type="controller_interface::ControllerBase">
+    <description>
+      The arm gravity compensation.
+    </description>
+  </class>
+
+</library>
